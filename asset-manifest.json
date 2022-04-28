@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Traveling_app/static/css/main.a25ee5bf.css",
+    "main.js": "/Traveling_app/static/js/main.3a775664.js",
+    "static/media/Destination1.png": "/Traveling_app/static/media/Destination1.de717161cb0119f919fe.png",
+    "static/media/Destination6.png": "/Traveling_app/static/media/Destination6.376ce47cada69cbec1cb.png",
+    "static/media/hero.png": "/Traveling_app/static/media/hero.5c64a3bdba512daf7a91.png",
+    "static/media/Destination5.png": "/Traveling_app/static/media/Destination5.abac2dc35d4db8d128ec.png",
+    "static/media/Destination4.png": "/Traveling_app/static/media/Destination4.f721e2c4489425f70d44.png",
+    "static/media/info2.png": "/Traveling_app/static/media/info2.bc1a1d2083b2ab4e35b2.png",
+    "static/media/info3.png": "/Traveling_app/static/media/info3.6758d70516d83d442b35.png",
+    "static/media/Destination2.png": "/Traveling_app/static/media/Destination2.e30e5804c7da7406245f.png",
+    "static/media/Destination3.png": "/Traveling_app/static/media/Destination3.bb26997d6bd44cdf4d9f.png",
+    "static/media/service1.png": "/Traveling_app/static/media/service1.8b2a72c4f57bee1a3781.png",
+    "static/media/info1.png": "/Traveling_app/static/media/info1.00181d3df20a5880527b.png",
+    "static/media/service4.png": "/Traveling_app/static/media/service4.3245c70223b195fb1174.png",
+    "static/media/pic3.jpg": "/Traveling_app/static/media/pic3.c671ae16d41711b610ca.jpg",
+    "static/media/service2.png": "/Traveling_app/static/media/service2.97998cb156c36ed86a4b.png",
+    "static/media/service3.png": "/Traveling_app/static/media/service3.5cabe3e810144f5c42e1.png",
+    "static/media/pic1.jpg": "/Traveling_app/static/media/pic1.5be3129b269c02487962.jpg",
+    "index.html": "/Traveling_app/index.html",
+    "main.a25ee5bf.css.map": "/Traveling_app/static/css/main.a25ee5bf.css.map",
+    "main.3a775664.js.map": "/Traveling_app/static/js/main.3a775664.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a25ee5bf.css",
+    "static/js/main.3a775664.js"
+  ]
+}
